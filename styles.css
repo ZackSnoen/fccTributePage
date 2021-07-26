@@ -1,0 +1,46 @@
+img {
+    width: 50%;
+    position: center;
+}
+
+body {
+    text-align: center; 
+}
+
+main {
+    background: #E0E0E0;
+    box-shadow: 10px 10px 8px #888888;
+    margin: 10px;
+}
+
+html {
+    background: #F0F0F0;
+}
+
+h1 {
+    padding: 15px 15px 0 15px;
+}
+
+ul {
+    max-width: 500px;
+    text-align: left;
+    line-height: 1.5;
+    margin: 0 auto 50px auto;
+}
+
+li {
+    margin: 10px 0;
+}
+
+#img-div {
+    margin: 10px;
+    background: #F3F3F3;
+}
+
+#image {
+    padding: 15px 15px 0 15px;
+}
+
+#img-caption {
+    margin: 0;
+}
